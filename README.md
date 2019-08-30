@@ -1,5 +1,7 @@
 # TrelloClone
 
+A simple trello clone, you can see it live here: https://simple-trello-clone.stackblitz.io/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
 ## Development server
